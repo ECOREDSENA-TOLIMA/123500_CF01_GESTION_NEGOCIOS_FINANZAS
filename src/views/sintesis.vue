@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La empresa, como unidad de progreso económico y social, requiere constantemente de un análisis o diagnóstico organizacional que permita, a través de sus factores internos y externos, gestionar y dinamizar procesos administrativos coherentes, pertinentes y eficientes.  A continuación, se presentan gráficamente las temáticas desarrolladas en el componente.
 
     .row.justify-content-center
       .col-lg-10.mb-5
