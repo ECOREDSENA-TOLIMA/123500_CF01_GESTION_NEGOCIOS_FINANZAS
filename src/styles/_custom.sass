@@ -14,14 +14,14 @@
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 33%
-    right: 30%
-    width: 40%
+    top: 32%
+    right: 35%
+    width: 32%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(15px)
 
   100%
     transform: translateY(0px)
@@ -33,11 +33,14 @@
   100%
     transform: translateX(0px)
 
-.cajon.color-acento-contenido
+.cajon.color-acento-contenido,.tarjeta.color-acento-contenido
   background-color: lighten($color-acento-contenido, 25%)
 
 .tarjeta.color-custom
   background-color: #E1EFE3
+.bloque-texto-c.color-custom
+  background-color: #E1EFE3
+  border-radius: 0.7em
 
 .slyder-a__bullets__item--active
   background-color: $color-acento-botones
@@ -70,6 +73,13 @@
   background-size: cover
   background-repeat: no-repeat
 
+span.folder
+  background-image: url("../assets/curso/temas/folder.svg")
+  background-size: inherit
+  background-repeat: no-repeat 
+  padding: 0px 10px
+  
+
 .bg-rosa
   background-color: #FEF5E5
 
@@ -87,3 +97,30 @@
 	background-color:  #BBF1F9
 	&::before
 		background-color: #3AE3FE
+
+.tarjeta.color-primario-b,.cajon.color-primario
+  background-color: #B9DFB7
+  p,h4
+    color: $black !important
+
+.tarjeta.color-acento-botones
+  background-color: lighten($color-acento-botones, 35%)
+
+  
+.jumbotron-1
+  background-color: #E1FBFF
+  border-radius: 30px
+
+.jumbotron-2
+  background-color: #FEF5E5
+  border-radius: 30px
+
+.titulo-herramientas 
+  background-image: url("../assets/curso/temas/ico-title.svg")
+  background-size: inherit
+  background-repeat: no-repeat 
+  padding-left: 2em
+  color: $color-primario
+  border-bottom: 0.15em solid $color-secundario
+
+  
