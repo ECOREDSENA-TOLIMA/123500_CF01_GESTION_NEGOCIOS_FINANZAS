@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La empresa y la gestión de la información. Se divide en dos aspectos donde se tratan los aspectos fundamentales de la organización hasta llegar el diagnóstico, y los instrumentos de recolección de información  donde se exponen los tipos, técnicas y grupos de interés.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

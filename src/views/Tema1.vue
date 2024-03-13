@@ -49,15 +49,15 @@
       .col-md-6.col-lg-7.col-12(data-aos="fade-right") 
         //- .tarjeta.color-custom.p-3
         p.mb-3 Al estar compuesta por áreas funcionales, cada una de ellas aporta al desarrollo integral de la empresa, lo que, a su vez, redunda en un beneficio regional e incluso nacional si las magnitudes de sus innovaciones o transformaciones permiten alcanzar grandes retos o resolver grandes problemas, despertando niveles elevados de interés, como la inversión extranjera, generando de esta manera el ingreso de divisas al país, lo cual beneficia a todo el territorio nacional.
-        p.mb-0 Ahora bien, las características de la empresa son los rasgos que la identifican como ente productivo y económico que ofrece bienes y servicios. Esta inicia sus actividades, como se ha mencionado, con gran expectativa de satisfacer las necesidades de los clientes y poder llegar a fidelizarlos, generando así ingresos que le permitan ampliar su capacidad productiva, lanzar nuevas líneas de productos, crecer y consolidarse en el sector al que pertenezca. La organización debe estar cargada de dinamismo para adaptarse a los cambios que el entorno le presente y coordinar sus recursos para el logro de los objetivos. Por tanto, las siguientes pueden identificarse como sus características.
+        p.mb-0 Ahora bien, las características de la empresa son los rasgos que la identifican como ente productivo y económico que ofrece bienes y servicios. Esta inicia sus actividades, como se ha mencionado, con gran expectativa de satisfacer las necesidades de los clientes y poder llegar a fidelizarlos, generando así ingresos que le permitan ampliar su capacidad productiva, lanzar nuevas líneas de productos, crecer y consolidarse en el sector al que pertenezca. La organización debe estar cargada de dinamismo para adaptarse a los cambios que el entorno le presente y coordinar sus recursos para el logro de los objetivos. Por tanto, las siguientes pueden identificarse como sus características:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-11.col-lg-9.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Características de la empresa</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-1b.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-1b.svg', alt='En la figura 1 se muestran las características de las empresas, con diferentes determinaciones.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='En la figura 1 se muestran las características de las empresas, con diferentes determinaciones.') 
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -154,27 +154,32 @@
     p.mb-3(data-aos="zoom-in-down") Forma jurídica se refiere a la constitución legal que se realiza de la empresa y en qué tipo de sociedad se convierte la organización al ser legalmente constituida, asumiendo unas características que la identifican y unas responsabilidades legales y fiscales ante el Estado. 
 
     .row.justify-content-evenly.align-items-center.mb-3
+      .col-12
+        h4 ¿Qué son las sociedades?
+        p.mb-3 La sociedad es la reunión de personas naturales o jurídicas que unen sus esfuerzos bajo una figura legal constituida mediante escritura pública y cumpliendo con todos los requisitos de ley para su creación, bajo la cual se asigna un nombre que debe quedar instaurado en todos los estamentos relacionados con la constitución de la empresa y que debe declarar con claridad el tipo de responsabilidad a que corresponde. 
+        p.mb-3 Esta figura se denomina persona jurídica, la cual tiene derechos y responsabilidades. Asimismo, puede ser representada judicial y extrajudicialmente.
+        p.mb-3 En Colombia, se pueden constituir diferentes tipos de sociedades, tales como: sociedad limitada, empresa unipersonal, sociedad anónima, sociedad colectiva, sociedad por acciones simplificada S.A.S., sociedad en comandita, entre otras. Cada una de ellas tiene unas características y responsabilidades diferentes.
       .col-12.col-lg-6.mb-4-md-5(data-aos="fade-left")
         LineaTiempoD.color-acento-botones.especial
-          .row(titulo='¿Qué son las sociedades?' numero='1')
-            .row.justify-content-center.align-items-star
-              .col-12.col-lg-12.mb-4.mb-lg-0
-                p.mb-3 La sociedad es la reunión de personas naturales o jurídicas que unen sus esfuerzos bajo una figura legal constituida mediante escritura pública y cumpliendo con todos los requisitos de ley para su creación, bajo la cual se asigna un nombre que debe quedar instaurado en todos los estamentos relacionados con la constitución de la empresa y que debe declarar con claridad el tipo de responsabilidad a que corresponde. 
-                p.mb-3 Esta figura se denomina persona jurídica, la cual tiene derechos y responsabilidades. Asimismo, puede ser representada judicial y extrajudicialmente.
-                p.mb-0 En Colombia, se pueden constituir diferentes tipos de sociedades, tales como: sociedad limitada, empresa unipersonal, sociedad anónima, sociedad colectiva, sociedad por acciones simplificada S.A.S., sociedad en comandita, entre otras. Cada una de ellas tiene unas características y responsabilidades diferentes.
-          .row(titulo='Sociedad limitada' numero='2')
+          //- .row(titulo='¿Qué son las sociedades?' numero='1')
+          //-   .row.justify-content-center.align-items-star
+          //-     .col-12.col-lg-12.mb-4.mb-lg-0
+          //-       p.mb-3 La sociedad es la reunión de personas naturales o jurídicas que unen sus esfuerzos bajo una figura legal constituida mediante escritura pública y cumpliendo con todos los requisitos de ley para su creación, bajo la cual se asigna un nombre que debe quedar instaurado en todos los estamentos relacionados con la constitución de la empresa y que debe declarar con claridad el tipo de responsabilidad a que corresponde. 
+          //-       p.mb-3 Esta figura se denomina persona jurídica, la cual tiene derechos y responsabilidades. Asimismo, puede ser representada judicial y extrajudicialmente.
+          //-       p.mb-0 En Colombia, se pueden constituir diferentes tipos de sociedades, tales como: sociedad limitada, empresa unipersonal, sociedad anónima, sociedad colectiva, sociedad por acciones simplificada S.A.S., sociedad en comandita, entre otras. Cada una de ellas tiene unas características y responsabilidades diferentes.
+          .row(titulo='Sociedad limitada' numero='1')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-3  Este tipo de sociedad se caracteriza porque la responsabilidad de sus socios está relacionada con el monto o valor de sus aportes, lo cual define su nivel de responsabilidad. Es decir, cada socio es responsable de las decisiones tomadas en la empresa y sus consecuencias respondiendo por ello hasta el monto de sus aportes.
-          .row(titulo='Sociedad anónima' numero='3')
+          .row(titulo='Sociedad anónima' numero='2')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-3 Esta sociedad se forma por la unión de mínimo cinco socios, sin límite o máximo impuesto. Se constituye cuando los aportes de capital se realizan mediante la compra de acciones y su responsabilidad corresponde al monto o valor de sus aportes.
-          .row(titulo='Empresa asociativa de trabajo' numero='4')
+          .row(titulo='Empresa asociativa de trabajo' numero='3')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p Este tipo de empresa es particular porque está integrada por socios quienes aportan su capacidad laboral por tiempo indefinido y su vinculación con este tipo de organización no es laboral sino comercial. Su objeto es producir, comerciar y distribuir bienes básicos de consumo familiar o la prestación de servicios individuales o conjuntos de sus miembros. La personería jurídica de este tipo de empresas asociativas será reconocida desde su inscripción en la Cámara de Comercio (CCC, 2020). 
-          .row(titulo='Sociedad colectiva' numero='5')
+          .row(titulo='Sociedad colectiva' numero='4')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-0  En este tipo de sociedad, todos los socios, en nombre colectivo, responderán solidaria e ilimitadamente por las operaciones sociales.
@@ -186,16 +191,16 @@
         img(src='@/assets/curso/temas/tema1/img_8.png').mb-3
       .col-12.col-lg-6.mb-4-md-5(data-aos="fade-left")
         LineaTiempoD.color-acento-botones.especial
-          .row(titulo='Sociedad por acciones simplificada S.A.S.' numero='6')
+          .row(titulo='Sociedad por acciones simplificada S.A.S.' numero='5')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-3 Este tipo de empresa podrá constituirse por una o más personas naturales o jurídicas, quienes tendrán responsabilidad en este tipo de sociedad hasta el monto de sus aportes. Fue creada por la Ley 1258 de 2008, tiene naturaleza comercial indistinta de las actividades que incluyen su objeto social, este último puede ser indeterminado para realizar actividades legales y fue creada como estrategia para promover el emprendimiento. 
-          .row(titulo=' Sociedad en comandita simple S. en C.' numero='7')
+          .row(titulo=' Sociedad en comandita simple S. en C.' numero='6')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-3 Se constituye siempre entre uno o más socios que se comprometen solidaria e ilimitadamente por las operaciones realizadas, denominados <b>socios gestores</b>, y otro o varios socios que limitan la responsabilidad a sus respectivos aportes reconocidos como <b>socios comanditarios.</b>
                 p.mb-0 La razón social de la sociedad comanditaria simple se formará con el nombre completo o sólo el apellido de uno o más socios colectivos y se agregará la expresión “y compañía” o la abreviatura “& Cía”, seguida de la indicación abreviada S. en C.
-          .row(titulo='Sociedad en comandita por acciones' numero='8')
+          .row(titulo='Sociedad en comandita por acciones' numero='7')
             .row.justify-content-center.align-items-star
               .col-12.col-lg-12.mb-4.mb-lg-0
                 p.mb-3 Esta sociedad  se crea entre uno o más socios que comprometen solidaria e ilimitadamente su responsabilidad por las operaciones que realicen los reconocidos como socios gestores, y otro o varios socios que limitan la responsabilidad al monto de sus aportes, denominados socios comanditarios. 
@@ -207,7 +212,7 @@
           h4 Empresa de una persona o Empresa unipersonal
           p.mb-0 Es posible constituir una empresa con un solo socio, que conforme una persona jurídica distinta a ese único socio, pero técnicamente no es una sociedad unipersonal. La sociedad unipersonal no existe como consecuencia de la creación de las S.A.S., lo que existe es la empresa unipersonal, creada por la Ley 222 de 1995, que no tiene la característica de sociedad (Gerencia.com, 2022).
 
-    p.text-center.mb-5(data-aos="zoom-in-down") Para ampliar la información alrededor de los tipos de sociedades en Colombia, se sugiere revisar los siguientes recursos.
+    p.text-center.mb-5(data-aos="zoom-in-down") Para ampliar la información alrededor de los tipos de sociedades en Colombia, se sugiere revisar los siguientes recursos:
 
     .row.align-items-center.justify-content-center
       .col-lg-10.col-12(data-aos="zoom-in-down")
@@ -243,7 +248,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Áreas funcionales
     
-    p.mb-4(data-aos="zoom-in-down") Cuando se mencionan áreas funcionales de la empresa, se hace referencia a todas las unidades, áreas o departamentos que son necesarios para el funcionamiento u operación de la organización, entre las cuales se dividen las responsabilidades, bien sea por funciones o especialidad. A continuación, se exponen las principales.
+    p.mb-4(data-aos="zoom-in-down") Cuando se mencionan áreas funcionales de la empresa, se hace referencia a todas las unidades, áreas o departamentos que son necesarios para el funcionamiento u operación de la organización, entre las cuales se dividen las responsabilidades, bien sea por funciones o especialidad. A continuación, se exponen las principales:
 
     .h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Áreas funcionales de la organización
@@ -287,7 +292,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4 <i>Marketing</i> y ventas
-            p.mb-3  Esta área direcciona sus esfuerzos en la planificación y diseño de nuevos productos, estableciendo el ciclo de vida que tendrán. Define las estrategias de <i>Marketing</i> que se aplicarán de acuerdo con el mercado o segmento, para una efectiva captación de clientes, mediante una comunicación estratégica. Sus esfuerzos se orientan al exterior de la empresa.
+            p.mb-3  Esta área direcciona sus esfuerzos en la planificación y diseño de nuevos productos, estableciendo el ciclo de vida que tendrán. Define las estrategias de <i>marketing</i> que se aplicarán de acuerdo con el mercado o segmento, para una efectiva captación de clientes, mediante una comunicación estratégica. Sus esfuerzos se orientan al exterior de la empresa.
             p.mb-0 Se encarga de planificar la mezcla de <i>marketing</i> en cuanto a producto, precio, comunicación y distribución, con base en los distintos bienes y servicios que ofrece al mercado.
           .col-md-4
             figure
@@ -321,7 +326,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Diagnóstico organizacional
 
-    p.mb-5(data-aos="zoom-in-down") Para definir el diagnóstico organizacional como herramienta estratégica para la organización, es necesario conocer el concepto de diagnóstico presentado en el siguiente video.
+    p.mb-5(data-aos="zoom-in-down") Para definir el diagnóstico organizacional como herramienta estratégica para la organización, es necesario conocer el concepto de diagnóstico presentado en el siguiente video:
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
@@ -337,8 +342,8 @@
           .row.align-items-center.justify-content-center.mb-4
             .col-lg-12(data-aos="fade-left") 
               figure
-                img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-2a.svg', alt='')  
-                img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-2b.svg', alt='') 
+                img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-2a.svg', alt='Figura 2. Causas del diagnóstico organizacional tiene diferentes orígenes que se mencionan debajo de la figura.')  
+                img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-2b.svg', alt='Figura 2. Causas del diagnóstico organizacional tiene diferentes orígenes que se mencionan debajo de la figura.') 
           .row.justify-content-center.align-items-center
             .col-lg-12(data-aos="zoom-in-down")
               .cajon.color-primario.p-3.mb-4
@@ -401,14 +406,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Proceso y elementos de un diagnóstico</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-3a.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-3b.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-3a.svg', alt='Figura 3 Proceso y elementos de un diagnóstico muestra los 4 pasos del proceso de diagnóstico y los elementos que lo componen.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-3b.svg', alt='Figura 3 Proceso y elementos de un diagnóstico muestra los 4 pasos del proceso de diagnóstico y los elementos que lo componen.') 
 
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Matrices diagnósticas
 
-    p.mb-4(data-aos="zoom-in-down") Las matrices diagnósticas han sido diseñadas con el fin de condensar diferentes factores claves de éxito de una organización, para medirlos o evaluarlos desde la realidad de su desempeño y operación empresarial. Ellas son instrumentos poderosos para la gestión empresarial, que permiten recoger información sobre diferentes aspectos de la empresa, para que luego, a través de la aplicación de otras estrategias o simplemente del análisis del conjunto de información, se pueda construir una conclusión. A continuación, se desarrollan las más relevantes.
+    p.mb-4(data-aos="zoom-in-down") Las matrices diagnósticas han sido diseñadas con el fin de condensar diferentes factores claves de éxito de una organización, para medirlos o evaluarlos desde la realidad de su desempeño y operación empresarial. Ellas son instrumentos poderosos para la gestión empresarial, que permiten recoger información sobre diferentes aspectos de la empresa, para que luego, a través de la aplicación de otras estrategias o simplemente del análisis del conjunto de información, se pueda construir una conclusión. A continuación, se desarrollan las más relevantes:
 
 
     TabsC.color-acento-botones.mb-5(data-aos="zoom-in-down")
@@ -484,21 +489,21 @@
         .row.justify-content-center.align-items-center.p-4 
           .col-12.col-md-6.mb-3.mb-md-0
             h4 Matriz EFI
-            p.mb-3 La matriz de Evaluación de los Factores Internos (EFI) busca consolidar y analizar las fortalezas y debilidades más relevantes de la organización. Es una herramienta para formular estrategias y se implementa asignando un peso relativo a cada factor, de 0, equivalente a sin importancia, va ascendiendo hasta llegar a 10, que significa muy importante, de tal manera que la suma de todos los pesos asignados a los factores sea igual a 100%. 
+            p.mb-3 La matriz de Evaluación de los Factores Internos (EFI) busca consolidar y analizar las fortalezas y debilidades más relevantes de la organización. Es una herramienta para formular estrategias y se implementa asignando un peso relativo a cada factor, de 0, equivalente a sin importancia, va ascendiendo hasta llegar a 10, que significa muy importante, de tal manera que la suma de todos los pesos asignados a los factores sea igual a 100 %. 
             p.mb-3 Así mismo, es importante aclarar que se asigna una calificación entre 1 y 2 a cada una de las debilidades y entre 3 y 4 a las fortalezas, con el fin de indicar el factor que este representa, así:
             ol.lista-ol.ms-3
               li 
-                span 1:
-                | debilidad mayor 
+                span 1.
+                | Debilidad mayor.
               li 
-                span 2:
-                | debilidad menor.
+                span 2.
+                | Debilidad menor.
               li 
-                span 3:
-                | fortaleza menor. 
+                span 3.
+                | Fortaleza menor. 
               li 
-                span 4:
-                | fortaleza mayor.                                                                       
+                span 4.
+                | Fortaleza mayor.                                                                       
           .col-12.col-md-6.mb-3.mb-md-0
             .row.justify-content-end.align-items-center
                 .col-12.mb-3

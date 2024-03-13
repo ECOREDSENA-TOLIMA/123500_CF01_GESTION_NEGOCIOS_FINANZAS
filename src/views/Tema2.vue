@@ -241,11 +241,22 @@
           .col-md-8.mb-4.mb-md-0
             h5 Recopilación/revisión/análisis documental
             p.mb-3 El fundamento de una investigación se origina en la revisión o análisis de fuentes bibliográficas, las cuales pueden ser personales, como testimonios, entrevistas grupales, institucionales, formales o informales. En estas fuentes, se encuentran diferentes tipos de información de incalculable valor, que pueden consolidarse como piezas claves para el desarrollo del diagnóstico o investigación. Para realizar el análisis documental, es necesario:
-            p.mb-0 Realizar un inventario de documentos existentes y disponibles.
-            p.mb-0 Clasificar los documentos identificados.
-            p.mb-0 Seleccionar los documentos más pertinentes para el propósito u objeto de la investigación.
-            p.mb-0 Leer a profundidad los documentos seleccionados, extrayendo de ellos, a través del análisis, patrones, tendencias, convergencias y contradicciones que se vayan identificando.
-            p.mb-3 Cruzar la información encontrada a través de la lectura y compararla en aspectos o hallazgos previamente realizados, lo que aportará al desarrollo de una síntesis sobre la realidad estudiada.
+            ul.lista-ul--color
+              li 
+                span.folder
+                | Realizar un inventario de documentos existentes y disponibles.
+              li 
+                span.folder
+                | Clasificar los documentos identificados.
+              li 
+                span.folder
+                | Seleccionar los documentos más pertinentes para el propósito u objeto de la investigación.
+              li 
+                span.folder
+                | Leer a profundidad los documentos seleccionados, extrayendo de ellos, a través del análisis, patrones, tendencias, convergencias y contradicciones que se vayan identificando.
+              li 
+                span.folder
+                | Cruzar la información encontrada a través de la lectura y compararla en aspectos o hallazgos previamente realizados, lo que aportará al desarrollo de una síntesis sobre la realidad estudiada.
             p.mb-0 El tipo de información base para realizar el análisis documental son escritos, documentos numéricos y documentos cartográficos.
           .col-md-4
             figure
@@ -266,7 +277,7 @@
               img(src='@/assets/curso/temas/tema2/img_19.png', alt='')
         .row(titulo="")
           .col-md-8.mb-4.mb-md-0
-            h5 Categorización. Triangulación y teoría fundamentada
+            h5 Categorización, triangulación y teoría fundamentada
             p.mb-3 Consiste en realizar un proceso a través del cual se busca reducir la información de la investigación, con el fin de describirla de manera conceptual y que esta responda a una estructura sistemática e inteligible para las personas y que, a su vez, sea significativa. Para que esta información conserve su carácter en este proceso de categorización, es necesario que el investigador conserve los temas tratados en la investigación, ya que esto permite mantener los resultados de la investigación encontrados por su autor.
             p.mb-3 También es pertinente mencionar que esta herramienta es un proceso cognitivo complejo de clasificación según las semejanzas y diferencias encontradas, que responden a unos criterios previamente determinados, es decir, la agrupación de información, de acuerdo con sus características, en capítulos, apartados o conjuntos y subconjuntos a los que se les debe asignar nombre. Las categorías se dividen en tres clases: 
             ul.lista-ul--color
@@ -301,7 +312,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img_23.png', alt='')
         
-    p.mb-5 Las comunidades #[em online]  son una inversión productiva para las empresas porque generan un espacio adecuado para recolectar información al instante y generar relaciones más estrechas que logran llegar a la fidelidad. Existen diferentes tipos de comunidades #[em online.] 
+    p.mb-5 Las comunidades #[em online]  son una inversión productiva para las empresas porque generan un espacio adecuado para recolectar información al instante y generar relaciones más estrechas que logran llegar a la fidelidad. Existen diferentes tipos de comunidades #[em online:] 
 
     .row.mb-5
       .col-lg-4(data-aos="fade-left") 
@@ -330,8 +341,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Técnica e instrumentos de recolección de información.</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-5a.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-5b.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-5a.svg', alt='Figura 5. Técnica e instrumentos de recolección de información muestra 5 diferentes tipos de técnicas con sus correspondientes instrumentos, los cuales serán descritos luego de la imagen de la figura.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-5b.svg', alt='Figura 5. Técnica e instrumentos de recolección de información muestra 5 diferentes tipos de técnicas con sus correspondientes instrumentos, los cuales serán descritos luego de la imagen de la figura.') 
 
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -400,7 +411,7 @@
           li 
             span.folder
             | Nacen de forma colectiva porque se identifican en sus intereses y comparten una misma motivación. Este tipo de grupo de interés permanecerá hasta lograr su objetivo.
-        p.mb-0 Los grupos de interés también se definen de acuerdo con los siguientes aspectos.
+        p.mb-0 Los grupos de interés también se definen de acuerdo con los siguientes aspectos:
       .col-lg-6(data-aos="fade-left") 
         img.mt-3(src='@/assets/curso/temas/tema2/img_9.png')
 
@@ -438,8 +449,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] #[em Mapa de stakeholders]
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-6a.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-6b.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-6a.svg', alt='Figura 6. Mapa de stakeholders. Corresponde a una matriz de 2 columnas y dos filas donde al incrementar el nivel de interés del grupo de interés hacia arriba aumenta y al desplazarse hacia la derecha en sentido horizontal el poder/influencia del grupo de interés incrementa.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-6b.svg', alt='Figura 6. Mapa de stakeholders. Corresponde a una matriz de 2 columnas y dos filas donde al incrementar el nivel de interés del grupo de interés hacia arriba aumenta y al desplazarse hacia la derecha en sentido horizontal el poder/influencia del grupo de interés incrementa.') 
           figcaption Nota. Adaptado de Robichaud (2018)
 
     .row.align-items-center.justify-content-center.mb-5

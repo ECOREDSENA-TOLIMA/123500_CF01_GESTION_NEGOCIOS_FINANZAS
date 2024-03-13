@@ -13,15 +13,24 @@
     
     figure.mb-5(data-aos="fade-down-left")
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/rENNGAnzMBk" title="Gestión administrativa introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      figcaption Gestión administrativa introducción
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dzyn4eofi6c" title="La empresa y la gestión de la información" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      figcaption La empresa y la gestión de la información
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-lg-10.col-12
-        .bloque-texto-c.color-custom.p-4
-          i.fas.fa-quote-right
+        //- .bloque-texto-c.color-custom.p-4
+        //-   i.fas.fa-quote-right
+        //-   p.mb-3 #[b La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.]
+        //-   span - (Gerencia.com, 2022).
+
+        .bloque-texto-f.color-custom.p-4.p-lg-5
+          .bloque-texto-f__comillas.mt-4
+            i.fas.fa-quote-left.mt-4.mt-lg-5.mx-md-4
+            i.fas.fa-quote-right
           p.mb-3 #[b La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.]
-          span - (Gerencia.com, 2022).
+          .bloque-texto-f__autor.mb-3.text-start
+            span - (Gerencia.com, 2022).
+            //- h3.mb-0 The graphic designer
 
     .row.align-items-center.justify-content-center.mb-5
       .col-md-6.col-lg-6.col-12(data-aos="fade-right") 
