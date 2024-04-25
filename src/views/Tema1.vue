@@ -32,7 +32,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-12(data-aos="zoom-in-down")
-        .cajon.color-acento-contenido.p-4
+        .cajon.color-primario.p-4
           h4 Conclusión
           p.mb-0 En conclusión, las empresas son el motor económico de los países, gracias a que a través suyo se genera riqueza y empleo, dinamizando el desarrollo de las naciones; razón por la cual  son reconocidas como la unidad productiva de la economía. Fueron creadas para ofertar bienes y servicios, y a través de ellas se formalizaron las transacciones u operaciones comerciales; de tal manera que el trueque dio paso a generar la necesidad de retribución económica por los productos y servicios vendidos, lo cual genera a su vez un beneficio tanto para el productor/comercializador como para el cliente o beneficiario del servicio o producto.
 
@@ -364,7 +364,7 @@
                   
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-12(data-aos="zoom-in-down")
-        .cajon.color-acento-contenido.p-3
+        .cajon.color-primario.p-3
           .row.justify-content-around.align-items-center
             .col-lg-12.col-12
               p.mb-0 Para realizar el diagnóstico organizacional se requiere de información ya disponible o de nueva información suministrada mediante los antecedentes, por ello, es  imprescindible definir un parámetro que facilite hacer relevantes algunos elementos y descartar otros para acentuar los de mayor trascendencia y definir con claridad la coyuntura actual de la organización, como son las dificultades en la actualidad.

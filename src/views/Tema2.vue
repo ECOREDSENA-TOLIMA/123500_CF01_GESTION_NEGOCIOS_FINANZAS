@@ -10,35 +10,38 @@
     p.mb-5(data-aos="zoom-in-down") Para abordar este tema, es necesario mencionar que en todo diagnóstico el fin es identificar y reconocer un problema específico, luego de definir las áreas vinculadas y de recopilar la información pertinente y relacionada con el aspecto a tratar, considerándose el diagnóstico una investigación. Todo plan de trabajo contiene tres elementos esenciales, de acuerdo con Gallardo (1999): método, técnica e instrumentos.
 
     .row.justify-content-around.align-items-center.mb-5.py-4(data-aos="zoom-in-right", style="background-color:#F2FFF9")
-      .col-12(data-aos="fade-down")
+      .col-12.col-lg-10(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Elementos de un plan de trabajo</i>
-      .col-md-6.col-lg.mb-5.mb-lg-0.col-12
-        .tarjeta-avatar.center
-          img(src='@/assets/curso/temas/tema2/icon_1.svg' alt='', style="width:170px")
-          .tarjeta.mx-4
-            .p-4 
-              h4.text-center.mb-3 Método
-              p.text-center.mb-0 El método es el procedimiento general.
-      .col-md-6.col-lg.mb-5.mb-lg-0.col-12
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/icon_2.svg', style="width:170px;")
-          .tarjeta
-            .p-4
-              h4.text-center.mb-3 Técnica
-              p.text-center.mb-0 La técnica se refiere a las maneras de abordar distintas actividades de forma estandarizada.
-      .col-md-6.col-lg.mb-5.mb-lg-0.col-12
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/icon_3.svg' , style="width:170px;")
-          .tarjeta
-            .p-4
-              h4.text-center.mb-3  Instrumentos
-              p.text-center.mb-0 Los instrumentos son los mecanismos  para recoger la información de forma direccionada y organizada.
+          p.titulo <b>Figura 4. </b> <i>Elementos de un plan de trabajo</i>
+        figure
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img_4A.svg', alt='Figura que destaca los tres elementos presentes en un plan de trabajo con sus respectivas características, los cuales son: el método, la técnica y los instrumentos.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img_4B.svg', alt='Figura que destaca los tres elementos presentes en un plan de trabajo con sus respectivas características, los cuales son: el método, la técnica y los instrumentos.')
+    //-   .col-md-6.col-lg-3.mb-5.mb-lg-0.col-12
+    //-     .tarjeta-avatar.center
+    //-       img(src='@/assets/curso/temas/tema2/icon_1.svg' alt='', style="width:170px")
+    //-       .tarjeta.mx-4
+    //-         .py-4.px-2
+    //-           h4.text-center.mb-3 Método
+    //-           p.text-center.mb-0 El método es el procedimiento general.
+    //-   .col-md-6.col-lg-3.mb-5.mb-lg-0.col-12
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/temas/tema2/icon_2.svg', style="width:170px;")
+    //-       .tarjeta
+    //-         .py-4.px-2
+    //-           h4.text-center.mb-3 Técnica
+    //-           p.text-center.mb-0 La técnica se refiere a las maneras de abordar distintas actividades de forma estandarizada.
+    //-   .col-md-6.col-lg-3.mb-5.mb-lg-0.col-12
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/temas/tema2/icon_3.svg' , style="width:170px;")
+    //-       .tarjeta
+    //-         .py-4.px-2
+    //-           h4.text-center.mb-3  Instrumentos
+    //-           p.text-center.mb-0 Los instrumentos son los mecanismos  para recoger la información de forma direccionada y organizada.
 
-    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-10.col-12
-        .tarjeta.color-acento-contenido.p-4
-          p.mb-0 #[b La función primordial de los instrumentos de recolección de información es el registro de los fenómenos empíricos,] quedando registrados a través de la aplicación del instrumento utilizado, el cual permite obtener información precisa, si ha sido diseñado de manera adecuada y pertinente.
+    //- .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
+    //-   .col-lg-10.col-12
+    //-     .tarjeta.color-acento-contenido.p-4
+    //-       p.mb-0 #[b La función primordial de los instrumentos de recolección de información es el registro de los fenómenos empíricos,] quedando registrados a través de la aplicación del instrumento utilizado, el cual permite obtener información precisa, si ha sido diseñado de manera adecuada y pertinente.
     
     p.mb-5(data-aos="zoom-in-down") La recolección de la información debe realizarse haciendo uso de un proceso planeado paso a paso, para que de manera estructurada y coherente se obtengan resultados que coadyuven favorablemente al logro de los objetivos planteados. La búsqueda de la información se realiza basada en elementos del punto focal o situación objeto de estudio, el planteamiento de preguntas relevantes, las variables intervinientes en el proceso y los indicadores que permiten operacionalizarlas. 
 
@@ -455,7 +458,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-12(data-aos="zoom-in-down")
-        .cajon.color-acento-contenido.p-3
+        .cajon.color-primario.p-3
           p.mb-0 Esta herramienta aparece gracias a que el nivel directivo de las organizaciones ha reconocido la importancia y tomado conciencia de administrar estratégica y proactivamente los grupos de interés.
 
 

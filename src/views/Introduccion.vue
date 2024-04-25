@@ -23,14 +23,22 @@
         //-   p.mb-3 #[b La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.]
         //-   span - (Gerencia.com, 2022).
 
-        .bloque-texto-f.color-custom.p-4.p-lg-5
-          .bloque-texto-f__comillas.mt-4
-            i.fas.fa-quote-left.mt-4.mt-lg-5.mx-md-4
-            i.fas.fa-quote-right
-          p.mb-3 #[b La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.]
-          .bloque-texto-f__autor.mb-3.text-start
-            span - (Gerencia.com, 2022).
-            //- h3.mb-0 The graphic designer
+        //- .bloque-texto-f.color-custom.p-4.p-lg-5
+        //-   .bloque-texto-f__comillas.mt-4
+        //-     i.fas.fa-quote-left.mt-4.mt-lg-5.mx-md-4
+        //-     i.fas.fa-quote-right
+        //-   p.mb-3 #[b La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.]
+        //-   .bloque-texto-f__autor.mb-3.text-start
+        //-     span - (Gerencia.com, 2022).
+
+        .bloque-texto-d.color-acento-contenido.p-4
+          .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left
+            p.text-regular La empresa siempre ha estado sujeta o influida por el entorno, lo cual hace que esté en permanente cambio, reconociendo los nuevos retos, adaptándose a los últimos procesos y tecnologías, apropiando esas actualizaciones para vincularlas y evaluando su implementación con el fin de elegir lo que es más conveniente y productivo para ella; es decir, generando una identidad organizacional propia que la diferencie de las demás.
+            i.fas.fa-quote-right(style="display:none")
+          .bloque-texto-d__autor 
+            .h5.mb-0 (Gerencia.com, 2022).
+              i.fas.fa-quote-right
 
     .row.align-items-center.justify-content-center.mb-5
       .col-md-6.col-lg-6.col-12(data-aos="fade-right") 
@@ -41,7 +49,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-12(data-aos="zoom-in-down")
-        .cajon.color-acento-contenido.p-3
+        .cajon.color-primario.p-3
           .row.justify-content-around.align-items-center
             .col-lg-11.col-12
               p.mb-0 Este componente formativo, además de desarrollar las temáticas descritas anteriormente, cerrará exponiendo cada uno de los instrumentos de recolección de información que son fundamentales para realizar diagnósticos o investigaciones orientadas a la implementación de un nuevo proyecto. 

@@ -117,7 +117,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA_01_123500.zip',
       },
       {
         icono: 'fas fa-download',
@@ -140,21 +140,21 @@ export default {
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20957%20DEL%2005%20DE%20JUNIO%20DE%202019.pdf',
     },
-    {
-      tema: '1.1. Clasificación',
-      referencia:
-        'Cámara de Comercio de Cúcuta. (s. f.). <em>Consolidado comparativo de sociedades.</em>',
-      tipo: 'Documento - cuadro comparativo',
-      link:
-        'https://www.cccucuta.org.co/uploads_descarga/desc_49414aa27e2ee1132e863a9d4d1b8f09.pdf',
-    },
+    // {
+    //   tema: '1.1. Clasificación',
+    //   referencia:
+    //     'Cámara de Comercio de Cúcuta. (s. f.). <em>Consolidado comparativo de sociedades.</em>',
+    //   tipo: 'Documento - cuadro comparativo',
+    //   link:
+    //     'https://www.cccucuta.org.co/uploads_descarga/desc_49414aa27e2ee1132e863a9d4d1b8f09.pdf',
+    // },
     {
       tema: '1.3. Diagnóstico organizacional',
       referencia:
-        'Hoyos, G. (2018). <em>El modelo de las cinco Fuerzas de Porter como instrumento para la adopción de decisiones estratégicas organizacionales: aplicación al sector de la Construcción Naval Militar.</em> [Trabajo de Grado]. Centro Universitario de la Defensa en la Escuela Naval Militar.',
-      tipo: 'Documento - trabajo de grado',
+        'Urbina, C. (2018). <em>Modelo de las 5 fuerzas de Porter, aplicación empresas Toks México y Frisby Colombia.</em>',
+      tipo: 'Artículo',
       link:
-        'http://calderon.cud.uvigo.es/bitstream/handle/123456789/232/Hoyos%20Perales%2c%20Guillermo%20memoria.pdf',
+        'https://bdigital.uniquindio.edu.co/bitstream/handle/001/5509/Modelo%20de%20las%205%20fuerzas%20de%20Porter%20entre%20toks%20M%C3%A9xico%20y%20frisbry%20Colombia.pdf?sequence=2&isAllowed=y',
     },
     {
       tema: '2. Instrumentos de recolección de la información.',
@@ -247,8 +247,7 @@ export default {
     {
       referencia:
         'Matiz, F. y Pérez, A. (2009). <em>Planeando la Empresa I.</em> Editorial Universidad EAN. ',
-      link:
-        'https://editorial.universidadean.edu.co/acceso-abierto/planeando-la-empresa-i.pdf',
+      link: '',
     },
     {
       referencia:
@@ -271,7 +270,7 @@ export default {
       referencia:
         'Ramírez, C. (2009) <em>Fundamentos de Administración.</em> Ecoe Ediciones. ',
       link:
-        'https://books.google.com.co/books?hl=es&lr=&id=zXs5DwAAQBAJ&oi=fnd&pg=PP1&dq=Libros+acerca+de+administraci%C3%B3n+y+concepto+de+empresa&ots=sIinLGLTsA&sig=_LpcfRYwDoHZLbx5nry9LKpSYIA&redir_esc=y#v=onepage&q=Libros%20acerca%20de%20administraci%C3%B3n%20y%2',
+        'https://www.ecoeediciones.com/wp-content/uploads/2016/08/Fundamentos-de-administración-4ed.pdf',
     },
   ],
   creditos: [
@@ -284,9 +283,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -294,9 +293,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesoría Metodológica y Pedagógica',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Experta Temática',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Miroslava González Hernández',
+          cargo: 'Diseño y Evaluación Instruccional',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesoría Metodológica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Darío González',
+          cargo: 'Corrección de Estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluación Instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -304,24 +330,60 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Francisco José Lizcano Reye',
+          cargo: 'Responsable del Equipo',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Leyson Fabian Castaño Perez',
+          cargo: 'Soporte Organizacional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Edison Eduardo Mantilla Cuadro',
+          cargo: 'Diseño Web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Gustavo Adolfo Marún Suárez',
+          cargo: 'Desarrollo Front-End',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción Audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Melina Tatiana Quintero Rodriguez',
+          cargo: 'Validación de Diseño y Contenido',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Jose Yobani Penagos Mora',
+          cargo: 'Diseño Web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Oscar Daniel Espitia Marín',
+          cargo: 'Desarrollo Fullstack',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -329,24 +391,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
