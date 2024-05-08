@@ -215,7 +215,7 @@
     p.text-center.mb-5(data-aos="zoom-in-down") Para ampliar la información alrededor de los tipos de sociedades en Colombia, se sugiere revisar los siguientes recursos:
 
     .row.align-items-center.justify-content-center
-      .col-lg-10.col-12(data-aos="zoom-in-down")
+      .col-12(data-aos="zoom-in-down")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
