@@ -154,7 +154,7 @@ export default {
         'Urbina, C. (2018). <em>Modelo de las 5 fuerzas de Porter, aplicación empresas Toks México y Frisby Colombia.</em>',
       tipo: 'Artículo',
       link:
-        'https://bdigital.uniquindio.edu.co/bitstream/handle/001/5509/Modelo%20de%20las%205%20fuerzas%20de%20Porter%20entre%20toks%20M%C3%A9xico%20y%20frisbry%20Colombia.pdf?sequence=2&isAllowed=y',
+        'https://bdigital.uniquindio.edu.co/server/api/core/bitstreams/646d1956-fcc5-4a8b-b4c8-10a032913d16/content',
     },
     {
       tema: '2. Instrumentos de recolección de la información.',
@@ -257,8 +257,8 @@ export default {
     {
       referencia:
         'Pedraza, M., Sastoque, J., Serrano, L. y Tarazona, D. (2015). <em>Diagnóstico organizacional a 100 Mipymes de Fusagasugá</em> [Trabajo de investigación]. Universidad de Cundinamarca. ',
-      link:
-        'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1349/DIAGNOSTICO%20ORGANIZACIONAL%20A%20100%20MIPYMES%20DE%20FUSAGASUGA.pdf?sequence=1&isAllowed=y',
+      // link:
+      // 'https://repositorio.ucundinamarca.edu.co/bitstream/handle/20.500.12558/1349/DIAGNOSTICO%20ORGANIZACIONAL%20A%20100%20MIPYMES%20DE%20FUSAGASUGA.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:

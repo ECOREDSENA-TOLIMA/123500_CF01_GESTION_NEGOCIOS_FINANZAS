@@ -215,7 +215,7 @@
             ul.lista-ul--color
               li 
                 span.folder
-                | Directa.
+                | Directa: se realiza cuando se pretende acercar el objeto de estudio de la investigación, analizando elementos conductuales.
               li 
                 span.folder
                 | Indirecta: ocurre cuando el acto de observación requiere de la utilización de instrumentos apropiados para la captación de las características del fenómeno. La dependencia del observador de los instrumentos es fundamental en este tipo de observación.

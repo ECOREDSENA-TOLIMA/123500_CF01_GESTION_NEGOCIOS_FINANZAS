@@ -330,7 +330,7 @@
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Q8UBmSaGk48" title="Diagnóstico organizacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1PtD2fIJO1Q" title="Diagnóstico organizacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       figcaption Diagnóstico organizacional
 
     .container.bg-white.py-2.fondo-1
@@ -582,7 +582,7 @@
                     .anexo__texto
                       p Anexo. Ejemplo de Matriz POAM; tomado de Pedraza (2015).
       
-    p.mb-4 Se puede concluir que existen diferentes herramientas para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una con sus complementarios permite esclarecer el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a redituar las oportunidades que brinda el entorno y especialmente a preparase para evitar los impactos de la ocurrencia de amenazas.
+    p.mb-4 Se puede concluir que existen diferentes herramientas para evaluar el contexto interno y externo de una organización, siendo de gran importancia la suma de ellas, pues cada una con sus complementarios permite esclarecer el panorama de la organización, encontrando estrategias que aporten a potencializar fortalezas, así como a convertir debilidades en fortalezas, a redituar las oportunidades que brinda el entorno y especialmente a prepararse para evitar los impactos de la ocurrencia de amenazas.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-12(data-aos="zoom-in-down")
